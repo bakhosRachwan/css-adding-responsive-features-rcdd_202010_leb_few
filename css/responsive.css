@@ -37,4 +37,7 @@
     column-gap: 1.5em;
     column-count: 1;
   }
+  .col-1, .col-2, .col-3 {
+    width: 100%;
+  }
 }
