@@ -41,6 +41,6 @@
     width: 100%;
   }
   .border-right{
-    
+    border-right: 0;
   }
 }
