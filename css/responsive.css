@@ -22,7 +22,7 @@
   #social{
     top: 72px;
   }
-  col-3 p{
+  .col-3 p{
     column-rule: 1px dotted #ccc;
     column-gap: 1.5em;
     column-count: 2;
